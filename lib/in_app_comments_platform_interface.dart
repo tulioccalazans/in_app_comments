@@ -24,6 +24,6 @@ abstract class InAppCommentsPlatform extends PlatformInterface {
   }
 
   Future<int?> requestComments() {
-    throw UnimplementedError('platformVersion() has not been implemented.');
+    throw UnimplementedError('requestComments() has not been implemented.');
   }
 }

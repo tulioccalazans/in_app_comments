@@ -37,3 +37,7 @@
 ## 1.0.2
 
 * Updated Readme file
+
+## 1.0.3
+
+* Updated Android compileSdkVersion to 34 to support newer AndroidX dependencies.
